@@ -2,9 +2,9 @@ Source: qmlrunner
 Section: Utilities
 Priority: optional
 Maintainer: Rinigus <rinigus.git@gmail.com>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 10), qt5-qmake, qtbase5-dev, qtdeclarative5-dev
 Standards-Version: 4.1.2
-Homepage: https://github.com/rinigus/qmlrunner, qt5-qmake, qtbase5-dev, qtdeclarative5-dev
+Homepage: https://github.com/rinigus/qmlrunner
 #Vcs-Git: https://anonscm.debian.org/git/collab-maint/qmlrunner.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/qmlrunner.git
 
