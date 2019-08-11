@@ -1,3 +1,9 @@
+qmlrunner (1.0.2-1) unstable; urgency=medium
+
+  * fix dependencies
+
+ -- Rinigus <rinigus.git@gmail.com>  Sun, 11 Aug 2019 22:04:15 +0300
+
 qmlrunner (1.0.1-1) unstable; urgency=medium
 
   * Initial release
